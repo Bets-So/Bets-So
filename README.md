@@ -1,9 +1,9 @@
 ## 
-┌──────────────────────────────────────────────┐
-│  Hi, I'm Betsabé 👋                          │
-│  Data Analyst | Actuarial Science            │
-│  Based in Mexico · Open to remote work       │
-└──────────────────────────────────────────────┘
+┌───────────────────────────────────────────┐
+│  Hi, I'm Betsabé 👋                        │
+│  Data Analyst | Actuarial Science         │
+│  Based in Mexico · Open to remote work    │
+└───────────────────────────────────────────┘
 
 About
   I turn messy real-world data into
