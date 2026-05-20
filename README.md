@@ -1,5 +1,5 @@
 ## 
-┌──────────────────────────────────────────────┐
+┌──────────────────────────────────────────────┐                               
 │  Hi, I'm Betsabé 👋                          │
 │  Data Analyst | Actuarial Science            │
 │  Based in Mexico · Open to remote work       │
