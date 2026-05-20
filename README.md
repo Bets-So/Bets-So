@@ -5,7 +5,8 @@ Data Analyst | Actuarial Science
 Based in Mexico · Open to remote work       
 ──────────────────────────────────────────────
 
-About
+About me:
+
   I turn messy real-world data into
   decisions, with a focus on spatial analysis
   and framework design from ambiguous problems.
