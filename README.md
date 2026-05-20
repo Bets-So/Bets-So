@@ -11,6 +11,7 @@ About me:
   decisions, with a focus on spatial analysis
   and framework design from ambiguous problems.
 
+
 Featured Work
   [Pieza 1] — link al repo, una línea de descripción
   [Pieza 2] — link al repo, una línea de descripción
