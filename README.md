@@ -1,25 +1,27 @@
 ## 
 ──────────────────────────────────────────────                              
 Hi, I'm Betsabé 👋                          
-Data Analyst | Actuarial Science           
+Business Intelligence Analyst · SQL · Power BI · Python          
 Based in Mexico · Open to remote work       
 ──────────────────────────────────────────────
 
 About me:
 
   I turn messy real-world data into
-  decisions, with a focus on spatial analysis
-  and framework design from ambiguous problems.
+  decisions across financial services, retail, 
+  and consumer research with strong SQL & BI
+  foundations and applied experience in spatial analysis
+
 
 
 Featured Work
-  [Pieza 1] — link al repo, una línea de descripción
-  [Pieza 2] — link al repo, una línea de descripción
-  [Pieza 3] — link al repo, una línea de descripción
+  [Pieza 1] — coming soon ...
+  [Pieza 2] — coming soon ...
+  [Pieza 3] — coming soon ...
 
 Tech Stack
-  R · Python · SQL · GeoDA · Power BI · Excel
-  (lista honesta, no infles)
+  SQL · Power BI ·  R · Python · KNIME · GeoDA · Excel advanced
+  
 
 Currently
   Available for freelance projects · México &
@@ -28,7 +30,7 @@ Currently
 Let's talk
   📧 betsabesotres@gmail.com
   💼 LinkedIn: /in/betsabe-sotres
-  🌐 Portfolio: tu-url-squarespace.com
+  🌐 Portfolio: coming soon
 
 <!--
 **Bets-So/Bets-So** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
